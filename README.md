@@ -4,22 +4,19 @@ Experimenting with the concepts present in the book "Programming Pytorch for Dee
 
 - Create a simple neural network to classify the Fashion MNSIT dataset.
 
-     :pencil: [Github Link](https://github.com/kjamithash/Pytorch_DeepLearning_Experiments/blob/master/SimpleNet_Fashion_MNIST_Pytorch.ipynb)
-
-     :ledger:
-   
+     :ledger: [Colab Notebook](https://colab.research.google.com/github/kjamithash/Pytorch_DeepLearning_Experiments/blob/master/SimpleNet_Fashion_MNIST_Pytorch.ipynb)
 
 - Create a convolution neural network to classify the Fashion MNSIT dataset.
 
-    [Github Link](https://github.com/kjamithash/Pytorch_DeepLearning_Experiments/blob/master/FashionCNN_Fashion_MNIST_Pytorch.ipynb)
+    :ledger: [Colab Notebook](https://colab.research.google.com/github/kjamithash/Pytorch_DeepLearning_Experiments/blob/master/FashionCNN_Fashion_MNIST_Pytorch.ipynb)
 
 - Experiment with transfer learning to improve the accuracy of the CNN model. 
 
-    [Github Link](https://github.com/kjamithash/Pytorch_DeepLearning_Experiments/blob/master/FashionMNIST_ResNet_TransferLearning.ipynb)
+    :ledger: [Colab Notebook](https://colab.research.google.com/github/kjamithash/Pytorch_DeepLearning_Experiments/blob/master/FashionMNIST_ResNet_TransferLearning.ipynb)
 
-- Using tensorboard to visualize a neural network with Pytorch 
+- Using Tensorboard to visualize a neural network with Pytorch 
     
-    [Github Link](https://github.com/kjamithash/Pytorch_DeepLearning_Experiments/blob/master/Tensorboard_Pytorch_FashionMNIST.ipynb)
+    :ledger: [Colab Notebook](https://colab.research.google.com/github/kjamithash/Pytorch_DeepLearning_Experiments/blob/master/Tensorboard_Pytorch_FashionMNIST.ipynb)
 
 ![Alt text](tensorboard_gif.gif) 
 
